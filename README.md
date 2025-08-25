@@ -24,6 +24,8 @@ Raccoon Mortgage is a lightweight calculator app for single and bulk mortgage ap
   npm run test:coverage
   ```
 
+5. Use the `/sample.csv` provided file to use the bulk mortgage calculator option.
+
 ## Approach
 
 Raccoon Mortgage follows a separation of concerns for maintainability:
